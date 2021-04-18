@@ -1,5 +1,5 @@
 {
-  "name": "common-http",
+  "name": "common-https",
   "version": "1.0.0",
   "description": "express 封装版",
   "main": "dist/index.js",
